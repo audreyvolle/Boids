@@ -1,6 +1,6 @@
 # Boids Algorithm
 
-A representation of boids algorithm using JavaScript and a graphical user interface. This script creates a canvas and populates it with 100 boids that move according to the rules of the boids algorithm. 
+A representation of boids algorithm using JavaScript and a graphical user interface. This script creates a canvas and populates it with 100 boids that move according to the rules of boids algorithm. 
 
 ## What is Boids Algorithm? 
 

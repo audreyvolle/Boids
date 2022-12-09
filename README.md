@@ -17,8 +17,7 @@ The Boids algorithm is a model for simulating the collective behavior of birds. 
 ## Real-Life Examples (Flocking)
 
 Flocking behavior is a type of collective behavior that is seen in animals such as birds and fish. It is characterized by the coordinated movement of a group of animals, where each individual follows a set of simple rules that determine how it moves and interacts with its neighbors. In flocks of birds, for example, each bird tries to maintain a certain distance from its neighbors, align its velocity with the average velocity of its neighbors, and move towards the average position of its neighbors. These simple rules can produce complex and seemingly intelligent behavior, such as the ability to navigate through obstacles and avoid predators. Flocking behavior has been studied extensively by researchers in fields such as biology, computer science, and physics.
-
- - Links:
+- Links:
   - https://www.youtube.com/watch?v=0dskCpuxqtI&ab_channel=CGTN
   - https://www.youtube.com/watch?v=R0axChxizwA&ab_channel=ValerieClark
 
